@@ -1,7 +1,6 @@
 # SQL-Task4
 Practice using SQL aggregate functions, GROUP BY, HAVING, and filtering techniques to summarize and analyze data.
 Task Overview
-You will:
 
 I have Writen  queries to group data by one or more columns
 
